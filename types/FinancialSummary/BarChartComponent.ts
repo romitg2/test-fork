@@ -23,7 +23,6 @@ export interface CustomTooltipProps {
   }[];
 }
 
-
 export interface Custom {
   active?: boolean;
 }
@@ -37,3 +36,5 @@ export interface Custom2 {
 }
 
 export type ExpensesLink = ExpensesLinkItem[];
+
+export type R = number;
