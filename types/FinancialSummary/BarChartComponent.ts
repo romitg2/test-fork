@@ -37,8 +37,5 @@ export interface Custom2 {
 
 export type ExpensesLink = ExpensesLinkItem[];
 
-<<<<<<< HEAD
 export type R = number;
-=======
 export type Romit = string;
->>>>>>> 6f4813af (local change)
